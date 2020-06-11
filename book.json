@@ -10,7 +10,15 @@
         "search-pro",
         "insert-logo",
         "tbfed-pagefooter",
-        "popup"
+        "popup",
+        "github",
+        "katex",
+        "github-buttons",
+        "anchors",
+        "anchor-navigation-ex",
+        "todo",
+        "klipse",
+        "donate"
     ],
     "pluginsConfig": {
         "hide-element": {
@@ -23,6 +31,38 @@
         "tbfed-pagefooter": {
             "modify_label": "最新更新时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "github": {
+            "url": "https://github.com/9527q/Introduction-to-Algorithms"
+        },
+        "github-buttons": {
+            "repo": "9527q/Introduction-to-Algorithms",
+            "types": [
+                "star",
+                "watch",
+                "fork"
+            ],
+            "size": "small"
+        },
+        "anchor-navigation-ex": {
+            "isRewritePageTitle": true,
+            "isShowTocTitleIcon": true,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        },
+        "donate": {
+            "wechat": "http://ww1.sinaimg.cn/large/0062WsWaly1gfomav7w3qj30iw0ir0uq.jpg",
+            "alipay": "http://ww1.sinaimg.cn/large/0062WsWaly1gfombfqs7jj30f70fdtae.jpg",
+            "title": "",
+            "button": "赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        }
+    },
+    "links" : {
+        "sidebar" : {
+            "GitHub 链接" : "https://github.com/9527q/Introduction-to-Algorithms"
         }
     }
 }
