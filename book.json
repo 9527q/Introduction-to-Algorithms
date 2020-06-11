@@ -1,8 +1,8 @@
 {
     "plugins": [
         "hide-element",
-        "back-to-top-button",
         "chapter-fold",
+        "back-to-top-button",
         "code",
         "splitter",
         "-lunr",
@@ -26,10 +26,10 @@
         },
         "insert-logo": {
             "url": "https://user-images.githubusercontent.com/37435717/84364438-abc5cb00-ac02-11ea-8fca-5b0cf5199416.png",
-            "style": "background: none; max-height: 30px; min-height: 30px"
+            "style": "background: none; max-height: 120px; min-height: 120px"
         },
         "tbfed-pagefooter": {
-            "modify_label": "最新更新时间：",
+            "modify_label": "更新时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "github": {
@@ -45,10 +45,13 @@
             "size": "small"
         },
         "anchor-navigation-ex": {
-            "isShowTocTitleIcon": true,
+            "isRewritePageTitle": false,
+            "isShowTocTitleIcon": false,
             "tocLevel1Icon": "fa fa-hand-o-right",
             "tocLevel2Icon": "fa fa-hand-o-right",
-            "tocLevel3Icon": "fa fa-hand-o-right"
+            "tocLevel3Icon": "fa fa-hand-o-right",
+            "showGoTop": false,
+            "multipleH1": false
         },
         "donate": {
             "wechat": "http://ww1.sinaimg.cn/large/0062WsWaly1gfomav7w3qj30iw0ir0uq.jpg",
