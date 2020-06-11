@@ -1,0 +1,28 @@
+{
+    "plugins": [
+        "hide-element",
+        "back-to-top-button",
+        "chapter-fold",
+        "code",
+        "splitter",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "insert-logo",
+        "tbfed-pagefooter",
+        "popup"
+    ],
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "insert-logo": {
+            "url": "https://user-images.githubusercontent.com/37435717/84364438-abc5cb00-ac02-11ea-8fca-5b0cf5199416.png",
+            "style": "background: none; max-height: 30px; min-height: 30px"
+        },
+        "tbfed-pagefooter": {
+            "modify_label": "最新更新时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}
