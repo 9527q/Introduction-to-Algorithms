@@ -18,7 +18,8 @@
         "anchor-navigation-ex",
         "todo",
         "klipse",
-        "donate"
+        "donate",
+        "graph"
     ],
     "pluginsConfig": {
         "hide-element": {

@@ -30,4 +30,4 @@
 TODO
 
 - [ ] 第一章凸壳的例子
-- [ ] gitbook 增加 latex 支持
+- [x] gitbook 增加 latex 支持
