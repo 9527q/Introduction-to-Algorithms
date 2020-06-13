@@ -241,9 +241,11 @@ def find_max_num(fn, target):
 
 
 fns = [
-    # lambda n: math.log(n, 2),  # 太慢而且数太大
-    # lambda n: math.sqrt(n),  # 太大后开方小数位数不够用，计算的不精确
-    lambda n: n,
+    # log 的增长太慢了，math 的开方小数位数不够用会出现不精确的结果
+    # 正好前三个都很好算，直接口算就行了
+    # lambda n: math.log(n, 2),
+    # lambda n: math.sqrt(n),
+    # lambda n: n,
     lambda n: n * math.log(n, 2),
     lambda n: n ** 2,
     lambda n: n ** 3,
