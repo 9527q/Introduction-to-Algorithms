@@ -10,9 +10,9 @@
 
 各个章节都是相对独立的，每一章都是以节为单位由易到难，完全可以单独选某一章进行学习。
 
-
-
 [配套网址](http://mitpress.mit.edu/algorithms)上有一些练习和思考题的答案，以及一些已知错误。
+- [部分习题答案](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=8030&fn=Intro_to_Algo_Selected_Solutions.pdf)
+- [刊误](https://www.cs.dartmouth.edu/~thc/clrs-bugs/bugs-3e.php)
 
 练习中带有 `*` 号的更适合研究生做。
 
