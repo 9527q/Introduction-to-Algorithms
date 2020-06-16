@@ -10,12 +10,12 @@
 
 **问题陈述/形式说明**
 
-问题陈述说明了期望的输入/输出关系。算法则描述一个特定的过程时限输入/输出关系。
-
-以将一个数列非递减排序问题为例：
-
-- **输入**：{%math%}n{%endmath%} 个数的一个序列 {%math%}\langle a_1,\ a_2, \ \cdots,\ a_n \rangle{%endmath%}
-- **输出**：输入序列的一个排列 {%math%} \langle a_1',\ a_2',\ \cdots,\ a_n' \rangle{%endmath%}，满足 ![](https://latex.vimsky.com/test.image.latex.php?fmt=svg&val=\inline \dpi{150} \footnotesize a_1' \leqslant a_2' \leqslant \cdots \leqslant a_n'&dl=0)
+> 问题陈述说明了期望的输入/输出关系。算法则描述一个特定的过程时限输入/输出关系。
+>
+> 以将一个数列非递减排序问题为例：
+>
+> - **输入**：{%math%}n{%endmath%} 个数的一个序列 {%math%}\langle a_1,\ a_2, \ \cdots,\ a_n \rangle{%endmath%}
+> - **输出**：输入序列的一个排列 {%math%} \langle a_1',\ a_2',\ \cdots,\ a_n' \rangle{%endmath%}，满足 ![](https://latex.vimsky.com/test.image.latex.php?fmt=svg&val=\inline \dpi{150} \footnotesize a_1' \leqslant a_2' \leqslant \cdots \leqslant a_n'&dl=0)
 
 **问题实例**
 
