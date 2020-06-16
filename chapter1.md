@@ -213,7 +213,7 @@ while 1:
 print(num)
 ```
 
-### 思考题
+## 思考题
 
 **1、（运行时间的比较）假设求解问题的算法需要 {%math%}f(n){%endmath%} 毫秒，对下表中的每个函数 {%math%}f(n) {%endmath%} 和时间 {%math%}t{%endmath%}，确定可以在时间 {%math%}t{%endmath%} 内求解的问题的最大规模 {%math%}n{%endmath%}**
 
