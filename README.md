@@ -1,8 +1,10 @@
 # 《算法导论》《Introduction to Algorithms》 第 3 版
 
-> 本书提供了对当代计算机算法研究的一个全面、综合性的介绍。
-> 
-> 这本书选材与时俱进，具有实用性；采用伪代码，即简洁易懂又便于抓住本质，还有丰富的插图描述算法过程，方便教学也便于自学；对算法正确性和复杂度的分析比较全面，既有严密的论证，又有直观的解释；既有结论性知识的介绍，也有逐步导出结论的过程；丰富的练习题和思考题使得及时检验所学知识和进一步拓展学习内容成为可能。
+> 算法导论又叫 CLRS，来源于四位作者的名字首字母 Thomas H. Cormen，Charles E. Leiserson，Ronald L. Rivest，Clifford Stein
+
+本书提供了对当代计算机算法研究的一个全面、综合性的介绍。
+
+这本书选材与时俱进，具有实用性；采用伪代码，即简洁易懂又便于抓住本质，还有丰富的插图描述算法过程，方便教学也便于自学；对算法正确性和复杂度的分析比较全面，既有严密的论证，又有直观的解释；既有结论性知识的介绍，也有逐步导出结论的过程；丰富的练习题和思考题使得及时检验所学知识和进一步拓展学习内容成为可能。
 
 全书包含 957 道练习和 158 道思考题。
 
@@ -13,6 +15,8 @@
 [配套网址](http://mitpress.mit.edu/algorithms)上有一些练习和思考题的答案，以及一些已知错误。
 - [部分习题答案](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=8030&fn=Intro_to_Algo_Selected_Solutions.pdf)
 - [刊误](https://www.cs.dartmouth.edu/~thc/clrs-bugs/bugs-3e.php)
+
+[一个习题解答仓库](https://github.com/gzc/CLRS)
 
 练习中带有 `*` 号的更适合研究生做。
 
